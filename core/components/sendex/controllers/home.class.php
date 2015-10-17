@@ -9,6 +9,8 @@ class sendexHomeManagerController extends sendexMainController {
 	public $sendex;
 
 
+
+
 	/**
 	 * @param array $scriptProperties
 	 */
